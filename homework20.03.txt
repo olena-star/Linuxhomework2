@@ -1,0 +1,14 @@
+   0 nano script.sh
+   1 ls -la
+   2 chmod 744 script.sh
+   3 ls -la
+   4 ./script.sh 
+   5 cd /
+   6 cd tmp
+   7 ls
+   8 cd test
+   9 ls
+  10 cd mewfile/
+  11 ls
+  12 cat olena.txt
+  13 history > history.txt | export_file history.txt
